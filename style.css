@@ -8,7 +8,7 @@ h1 {
        margin: auto;
        margin-top: 45px;
        border-radius: 15px;
-
+       font-family: 'Noto Kufi Arabic', sans-serif;
 
 }
 
@@ -24,6 +24,17 @@ justify-content: center;
 p{
 
 text-align: center;
-
+font-size:large;
+font-style: italic;
+font-weight:bold;
+font-family: 'Noto Kufi Arabic', sans-serif;
 
 }
+a:link {
+
+text-decoration: none;
+font-size:larger;
+margin-left: 45%;
+
+}
+
