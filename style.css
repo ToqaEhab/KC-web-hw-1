@@ -11,3 +11,19 @@ h1 {
 
 
 }
+
+
+#game { 
+
+margin-top: 55px;
+display: flex;
+justify-content: center;
+
+}
+
+p{
+
+text-align: center;
+
+
+}
