@@ -2,39 +2,46 @@ h1 {
 
     color:rgb(254, 136, 248) ;
      background-color:#9402a7;
-      width: 300px;
+      width: 350px;
        text-align: center; 
        height: 42px;
        margin: auto;
        margin-top: 45px;
        border-radius: 15px;
-       font-family: 'Noto Kufi Arabic', sans-serif;
-
+       
 }
 
 
 #game { 
 
-margin-top: 55px;
-display: flex;
-justify-content: center;
+
+margin-top: 50px;
+width: 600px;
 
 }
 
 p{
 
 text-align: center;
-font-size:large;
+font-size:x-large;
 font-style: italic;
 font-weight:bold;
-font-family: 'Noto Kufi Arabic', sans-serif;
+font-family: 'Harmattan', sans-serif;
 
 }
 a:link {
 
 text-decoration: none;
 font-size:larger;
-margin-left: 45%;
+margin-right: 40px;
+font-family: 'Harmattan', sans-serif;
 
 }
+
+#ol {
+
+    font-family: 'Harmattan', sans-serif;
+    font-size: larger;
+}
+
 
