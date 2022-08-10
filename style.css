@@ -8,9 +8,20 @@ h1 {
        margin: auto;
        margin-top: 45px;
        border-radius: 15px;
-       
+   animation: change-color 5s 7 linear ;    
 }
 
+@keyframes change-color {
+from {
+    background-color:#9402a7;
+
+}
+to {
+background-color: indigo;
+
+}
+
+}
 
 #game { 
 
@@ -18,7 +29,11 @@ h1 {
 margin-top: 50px;
 width: 600px;
 
+    
 }
+
+
+
 
 p{
 
@@ -43,5 +58,6 @@ font-family: 'Harmattan', sans-serif;
     font-family: 'Harmattan', sans-serif;
     font-size: larger;
 }
+
 
 
