@@ -8,12 +8,12 @@ h1 {
        margin: auto;
        margin-top: 45px;
        border-radius: 15px;
-   animation: change-color 5s 7 linear ;    
+   animation: change-color 5s infinite linear ;    
 }
 
 @keyframes change-color {
 from {
-    background-color:#9402a7;
+    background-color:#b307ca;
 
 }
 to {
